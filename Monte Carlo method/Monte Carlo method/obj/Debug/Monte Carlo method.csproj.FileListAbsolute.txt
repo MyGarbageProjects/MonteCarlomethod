@@ -1,0 +1,13 @@
+D:\Project\C#\[Projects]\[Project]\Monte Carlo method\Monte Carlo method\bin\Debug\Monte Carlo method.exe.config
+D:\Project\C#\[Projects]\[Project]\Monte Carlo method\Monte Carlo method\bin\Debug\Monte Carlo method.exe
+D:\Project\C#\[Projects]\[Project]\Monte Carlo method\Monte Carlo method\bin\Debug\Monte Carlo method.pdb
+D:\Project\C#\[Projects]\[Project]\Monte Carlo method\Monte Carlo method\obj\Debug\MainWindow.g.cs
+D:\Project\C#\[Projects]\[Project]\Monte Carlo method\Monte Carlo method\obj\Debug\App.g.cs
+D:\Project\C#\[Projects]\[Project]\Monte Carlo method\Monte Carlo method\obj\Debug\Monte Carlo method_MarkupCompile.cache
+D:\Project\C#\[Projects]\[Project]\Monte Carlo method\Monte Carlo method\obj\Debug\Monte Carlo method_MarkupCompile.lref
+D:\Project\C#\[Projects]\[Project]\Monte Carlo method\Monte Carlo method\obj\Debug\MainWindow.baml
+D:\Project\C#\[Projects]\[Project]\Monte Carlo method\Monte Carlo method\obj\Debug\Monte Carlo method.g.resources
+D:\Project\C#\[Projects]\[Project]\Monte Carlo method\Monte Carlo method\obj\Debug\Monte_Carlo_method.Properties.Resources.resources
+D:\Project\C#\[Projects]\[Project]\Monte Carlo method\Monte Carlo method\obj\Debug\Monte Carlo method.csproj.GenerateResource.Cache
+D:\Project\C#\[Projects]\[Project]\Monte Carlo method\Monte Carlo method\obj\Debug\Monte Carlo method.exe
+D:\Project\C#\[Projects]\[Project]\Monte Carlo method\Monte Carlo method\obj\Debug\Monte Carlo method.pdb
