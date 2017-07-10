@@ -1,11 +1,7 @@
 
 # MonteCarlomethod
-Program for add fake FPS in game,when editing video(Google translator).
-Read about algorithm: https://en.wikipedia.org/wiki/Monte_Carlo_method
-I do not know why you might need this program, it just exists and end.
 
-<li>ScreenShot -
-
+Read about algorithm: https://en.wikipedia.org/wiki/Monte_Carlo_method<br>
 
 ![screenshot of sample](https://github.com/lif0/FakeFPS-CSharp/blob/master/for%20github/img.png)
 <li>Gif Animation -
